@@ -1,0 +1,42 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOFJ5y5dceCs6UV/v/zCX+T",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/abbymark/gj-ai/blob/master/%EA%B3%BC%EC%A0%9C\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ibI0rwM8SPpX",
+        "colab_type": "text"
+      },
+      "source": [
+        "##과제\n",
+        "* 언어 - 번역, 소설가 ai\n",
+        "* 음성 - ai스피커, 작곡가 ai\n",
+        "* 이미지 - 유해 이미지 차단, 불량품 검사\n",
+        "* 자율주행 - 무인 자동차 및 무인 드론"
+      ]
+    }
+  ]
+}
